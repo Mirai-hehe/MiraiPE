@@ -1,10 +1,7 @@
 
-<!-- MiraiPE README.md -->
-<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
-
 <div align="center">
 
-  <img src="logo.png" alt="MiraiPE" width="128"/>
+  <img src="1ebaabe9787cc4252f1d881b66c05518(1).webp" alt="MiraiPE" width="128"/>
 
   # 🌸 **MiraiPE**  
   **A modern, open-source launcher for Minecraft: Bedrock Edition on Android**  
